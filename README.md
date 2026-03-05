@@ -2,6 +2,8 @@
 
 # Patrón de Diseño: Abstract Factory en C#
 
+## Rodrigo Sotelo Rubio - 21212053
+
 ## Descripción
 
 Este proyecto muestra una implementación del **patrón de diseño Abstract Factory** utilizando **C#**.
