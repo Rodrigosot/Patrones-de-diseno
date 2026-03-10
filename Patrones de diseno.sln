@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patrones creacionales", "Patrones creacionales", "{240F1F03-EBAA-EF37-8792-5DC1375998E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Abstract Factory", "Abstract Factory", "{31F91A82-DD85-8BF6-58EA-5C27CE7A3446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract_Factory", "Patrones creacionales\Abstract Factory\Abstract_Factory\Abstract_Factory.csproj", "{022F8D5C-AD96-CD01-5F54-8E3E268D97D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022F8D5C-AD96-CD01-5F54-8E3E268D97D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022F8D5C-AD96-CD01-5F54-8E3E268D97D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022F8D5C-AD96-CD01-5F54-8E3E268D97D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022F8D5C-AD96-CD01-5F54-8E3E268D97D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31F91A82-DD85-8BF6-58EA-5C27CE7A3446} = {240F1F03-EBAA-EF37-8792-5DC1375998E3}
+		{022F8D5C-AD96-CD01-5F54-8E3E268D97D4} = {31F91A82-DD85-8BF6-58EA-5C27CE7A3446}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEAB27F5-A5DB-44BD-A37A-CB069BBC0F0F}
+	EndGlobalSection
+EndGlobal
