@@ -15,6 +15,7 @@ Los ejemplos fueron desarrollados como prácticas académicas para comprender la
 
 - Prototype
 - Abstract Factory
+- Composite
 
 Cada carpeta contiene la implementación del patrón correspondiente junto con su **código fuente**, **documentación** y **ejemplos de uso**.
 
